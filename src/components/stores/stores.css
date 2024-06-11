@@ -1,0 +1,14 @@
+.store-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+.stories-image img{
+    margin-left: 30%;
+    height: 300px;
+}
+.stories-image video{
+    margin-left: 30%;
+    height: 300px;
+}

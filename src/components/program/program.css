@@ -1,0 +1,11 @@
+.img {
+  margin: 0.5rem;
+  width: 98%;
+  height: 300px;
+}
+.program-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+}

@@ -1,0 +1,8 @@
+.aboutUs-title{
+    margin: 2rem;
+}
+.aboutUs-title h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2.5rem;
+}
